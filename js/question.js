@@ -13,7 +13,7 @@ const quiz = [
     {
         q:'Ibukota Saudi Arabia adalah Jeddah ?',
         options:['true','false'],
-        answer:1
+        answer:0
     },
     {
         q:'What time of day do we have breakfast ?',
